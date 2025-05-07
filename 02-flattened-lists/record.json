@@ -1,0 +1,35 @@
+{
+  "id$": "681bcae8b7434de109a096b8",
+  "companies": [
+    {
+      "id$": "681bcaeb04988e184aec751a",
+      "members": [
+        "Spider-Man",
+        "Iron Man",
+        "Black Widow",
+        "The Winter Soldier",
+        "Hawkeye"
+      ],
+      "name": "Avengers"
+    },
+    {
+      "id$": "681bcb1b5462f228b90dc5d3",
+      "name": "S.H.I.E.L.D.",
+      "members": [
+        "Black Widow",
+        "Nick Fury",
+        "Hawkeye",
+        "Alexander Pierce"
+      ]
+    },
+    {
+      "id$": "681bcb3570b3f510559450f2",
+      "name": "HYDRA",
+      "members": [
+        "Red Skull",
+        "Alexander Pierce",
+        "Crossbones"
+      ]
+    }
+  ]
+}
