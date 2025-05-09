@@ -1,0 +1,12 @@
+{
+  "id$": "681bdae761d26e8b7ae8c4c1",
+  "foo": 314,
+  "bar": {
+    "id$": "681bdae6eafd57c3154595d6",
+    "foo": 159,
+    "baz": {
+      "id$": "681bdaeb32bd43165ebf65fd",
+      "foo": 265
+    }
+  }
+}
